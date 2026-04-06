@@ -1,1 +1,7 @@
 # Analysis-CONNECTA-TEL---Sprint-7-final-Project
+*El objetivo* de este proyecto es analizar el comportamiento de los clientes de ConnectaTel en Latinoamérica, con el fin de identificar patrones de uso de llamadas y mensajes, detectar valores atípicos y segmentar a los usuarios según su nivel de consumo y características demográficas.
+Este análisis busca generar insights accionables que permitan optimizar la oferta de planes, mejorar la retención de clientes y diseñar estrategias comerciales más efectivas.
+*fuentes de datos* - Se utilizaron 3 fuentes: a. Información de los planes disponibles ( precio, minutos, GB incluidos). b). Información de los clientes( edad, ciudad, plan contratado, entre otras). c) Registro del uso real de los servicios como duración de las llamadas, longitud de los mensajes. 
+*Etapas del Análisis* 1. Carga y exploración de datos: ( Revisión inicial de los datos). 2. Identificación de problemas ( Detección de valores nulos, sentinels y datos inconsistentes). 3. Limpieza de datos. 4. Contrucción de métricas de uso. 5. Análisis estaditico y visualizacion ( graficos). 6. Segmentacipon por clientes. 7. Generación de Insights y recomendaciones. 
+*Guia de reproducción* 1. Repositorio en Github. 2. da click en "Analysys- CONNECTA-TEL-Sprint 7 - Final -project. el archivo proyecto se encuentra publico, esta es la manera mas facil de acceder. 
+*Realizado por:* Gina Broz. 
